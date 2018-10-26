@@ -1,0 +1,2 @@
+# Clock-Synchronization-
+Implementation of clock synchronization in Distributed Systems - a simple UDP client/server program, where the client sends a request to the server and the server sends a reply to the client. The client records the local clock times (client machine) of when the request is sent and when the reply is received. The server’s reply contains the local clock time (server machine) of when the request is received and when the reply is sent.
